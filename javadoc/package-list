@@ -1,4 +1,7 @@
 com.googlecode.kevinarpe.papaya
-com.googlecode.kevinarpe.papaya.annotations
-com.googlecode.kevinarpe.papaya.args
-com.googlecode.kevinarpe.papaya.exceptions
+com.googlecode.kevinarpe.papaya.annotation
+com.googlecode.kevinarpe.papaya.appendable
+com.googlecode.kevinarpe.papaya.argument
+com.googlecode.kevinarpe.papaya.container
+com.googlecode.kevinarpe.papaya.exception
+com.googlecode.kevinarpe.papaya.process
