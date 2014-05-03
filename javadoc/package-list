@@ -12,6 +12,7 @@ com.googlecode.kevinarpe.papaya.object
 com.googlecode.kevinarpe.papaya.process
 com.googlecode.kevinarpe.papaya.string
 com.googlecode.kevinarpe.papaya.string.joiner
+com.googlecode.kevinarpe.papaya.string.joiner.formatter
 com.googlecode.kevinarpe.papaya.testing
 com.googlecode.kevinarpe.papaya.testing.logging
 com.googlecode.kevinarpe.papaya.testing.logging.log4j
