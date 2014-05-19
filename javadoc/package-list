@@ -19,3 +19,4 @@ com.googlecode.kevinarpe.papaya.testing.logging.log4j
 com.googlecode.kevinarpe.papaya.testing.logging.log4j.junit
 com.googlecode.kevinarpe.papaya.testing.logging.log4j.testng
 com.googlecode.kevinarpe.papaya.testing.logging.slf4j
+com.googlecode.kevinarpe.papaya.xml.xpath
