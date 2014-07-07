@@ -4,12 +4,16 @@ com.googlecode.kevinarpe.papaya.appendable
 com.googlecode.kevinarpe.papaya.argument
 com.googlecode.kevinarpe.papaya.compare
 com.googlecode.kevinarpe.papaya.container
+com.googlecode.kevinarpe.papaya.container.builder
 com.googlecode.kevinarpe.papaya.exception
 com.googlecode.kevinarpe.papaya.filesystem
 com.googlecode.kevinarpe.papaya.filesystem.compare
+com.googlecode.kevinarpe.papaya.input
+com.googlecode.kevinarpe.papaya.jdk.properties
 com.googlecode.kevinarpe.papaya.logging.slf4j
 com.googlecode.kevinarpe.papaya.object
 com.googlecode.kevinarpe.papaya.process
+com.googlecode.kevinarpe.papaya.properties
 com.googlecode.kevinarpe.papaya.string
 com.googlecode.kevinarpe.papaya.string.joiner
 com.googlecode.kevinarpe.papaya.string.joiner.formatter
@@ -19,4 +23,5 @@ com.googlecode.kevinarpe.papaya.testing.logging.log4j
 com.googlecode.kevinarpe.papaya.testing.logging.log4j.junit
 com.googlecode.kevinarpe.papaya.testing.logging.log4j.testng
 com.googlecode.kevinarpe.papaya.testing.logging.slf4j
+com.googlecode.kevinarpe.papaya.xml
 com.googlecode.kevinarpe.papaya.xml.xpath
